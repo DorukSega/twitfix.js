@@ -1,0 +1,16 @@
+{
+  "name": "twitfix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twitfix.js",
+  "scripts": {
+    "server": "node twitfix.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1",
+    "twitter-api-v2": "^1.10.0"
+  }
+}

@@ -1,0 +1,3 @@
+->  Swap Express with Fastify
+-> Install MongoDB
+-> Youtube DL library?
